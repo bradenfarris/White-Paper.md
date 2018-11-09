@@ -6,8 +6,11 @@ For the past three months I have participated in a camera trapping research proj
 
 ## Scientific Description of the River Otter
 
-The North American River Otter (*Lontra canadensis*) is in the weasel family (Mustelidae) which is in the order Carnivora according to the **Missouri Department of Conservation Otter fact page**. The river otter has webbed feet, long tapered tails, thick oily fur, layers of warmth producing fat, long wiskers for sensory purposes, and a keen sense of smell. They are powerful swimmers and can be submerged underwater for over three minutes. 
+The North American River Otter (*Lontra canadensis*) is in the weasel family (Mustelidae) which is in the order Carnivora according to the **Missouri Department of Conservation Otter fact page**. The river otter has webbed feet, long tapered tails, thick oily fur, layers of warmth producing fat, long wiskers for sensory purposes, and a keen sense of smell. They are powerful swimmers and can be submerged underwater for over three minutes. Otters are carnivores and feed upon crustaceans, fish, and small mammals. 
 
+## Ecological Explanation of the River Otter's Abundance
+
+The river otter's abundance can be determined by several spatial factors. According to a scientific study done by **The American Midland Naturalist titled, "Scale-dependent Factors Affecting North American River Otter Distribution in the Midwest"**, an otter's population can be attributed to water quality, fish abundance, riparian cover, and seasonal predator abundance. There is conclusive scientific research that points out that healthy river otter populations may depend on these scale-dependent factors. It became conclusive by the end of the study done by The American Midland Naturalist that otters prefer wooded riparian zones three out of four times compared to grass or cropland landscape. Lake Taneycomo is a heavily forested riparian zone, so it makes sense why there is such a heavy population. Another interesting find is that otters will be present in an environment, if the environement sustains a beaver population. It was proven by my group's trail camera survey that both beavers and otters are present on the College of the Ozarks campus on Taneycomo. Taneycomo also sustains a very healthy trout population, which is why the otters stay on the lake year round. The seasonal predator abundance that was observed by the trail camera suggest there are atleast two bobcats where the otters are spotted on the shores of Taneycomo, but there is no evidence of the bobcats having a predatory influence on the otters. With unlimited fish, good quality forested cover, clean water, and limited predatory factors, it makes perfect ecological sense why the river otter has made Lake Taneycomo and the surrounding area a permanent home. 
 
 ## Conservation History
 
@@ -35,6 +38,12 @@ A story as recent as August 17, 2018 talks about the otter problem on Lake Taney
 
 Social media is a good way to determine how the general public feels about a topic, atleast with the younger generations. The **#riverotter on Twitter** produces thousands of results on the social media platform. After scrolling through numerous pages, the overall tone towards river otters is quite clear. People who use #riverotter are normal people, conservationists, and government entities, and all of them have a positive message about the river otter. These messages draw attention to the cuteness of the river otter and it also drive the importance of the river otter in America's rivers. This drives home that the wildlife departments of both state and federal levels, normal people who have no wildlife background, and scientists all have postive views of the river otter. This may indicate that people who complain about river otters are not extremely vocal about their distain for them and that they are of older generations. 
 
-The complaints of otters from landowners and business owners towards wildlife agencies does not reflect in social media. It is also worthy to note that there has been no orgization or outcry calling for the extirmination of the otter, such as feral pigs. 
+The complaints of otters from landowners and business owners towards wildlife agencies does not reflect in social media. It is also worthy to note that there has been no orgization or outcry calling for the extirmination of the otter, such as for the feral pig. 
+
+# Call to Action
+
+It is overwhelmingly apparent that the river otter's stay in Missouri is in for the long haul. It has long endured over hunting and trapping, and is now considered a full success story. However the river otter's population has admittingly surpassed expectations and when a certain couple of situations occur they can be bad for Missouri. These situations are private landowners ponds being wiped out of fish, and local marinas that experience an annoyance of river otters on their businesses. 
+
+My call to action is for 
 
 
