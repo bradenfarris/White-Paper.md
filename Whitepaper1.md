@@ -1,4 +1,4 @@
-# The North American River Otter: From Near Extirpation to Over Population
+# The North American River Otter: The Good, The Bad, and The Future
 
 ## Introduction
 
