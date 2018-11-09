@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For the past three months I have participated in a camera trapping research project. A mammal that the cameras continually caught was the river otter on the shores of Lake Taneycomo. This piqued my interest, since I was not even aware of a population of river otters on Taneycomo. It turns out there is a long saga surrounding the river otter, not just in the Ozarks, but in the entire midwest. My audience is the people who have encountered otters in some way or another, whether it be good or bad, but my hope is to make you understand the otter and their effects, not just understand that they are cute and/or destructive, depending on your view. I am hoping to educate my audience about the river otter, from an ecological and economical perspective, and maybe even convince you that the river otter is a needed and deserving creature in our rivers and streams and that there is a way that they can be managed that can benefit both them and us humans. 
+For the past three months I have participated in a camera trapping research project. A mammal that the cameras continually caught was the river otter on the shores of Lake Taneycomo. This piqued my interest, since I was not even aware of a population of river otters on Taneycomo. It turns out there is a long saga surrounding the river otter, not just in Missouri, but in the entire midwest. My audience is the people of Missouri who have encountered otters in some way or another, whether it be good or bad and whether you are a private landowner, business owner, or government official, my hope is to make you understand the river otter and their importance in Missouri. I am hoping to educate my audience about the river otter, from an ecological and economical perspective, and maybe even convince you that the river otter is a needed and deserving creature in our rivers and streams and that there is a way that they can be managed that can benefit both them and us humans. I am writing on behalf of *The Great American West*, a blog that is dedicated towards the ecology of the western United States, where the river otter is found as well. 
 
 ## Scientific Description of the River Otter
 
@@ -44,6 +44,25 @@ The complaints of otters from landowners and business owners towards wildlife ag
 
 It is overwhelmingly apparent that the river otter's stay in Missouri is in for the long haul. It has long endured over hunting and trapping, and is now considered a full success story. However the river otter's population has admittingly surpassed expectations and when a certain couple of situations occur they can be bad for Missouri. These situations are private landowners ponds being wiped out of fish, and local marinas that experience an annoyance of river otters on their businesses. 
 
-My call to action is for 
+My call to action is for wildlife policy makers of Missouri to continue to preserve the river otter in the waterways of Missouri. The river otter is a wonderful species and should continue trapped under Missouri hunting laws, as this is both beneficial for population control and for fur markets. I encourage all land and business owners who kill river otters for nuisance control to reconsider killing them, and put forth an effort to capture the river otter instead. Hopefully wildlife officials will be willing to work with these citizens of Missouri, relocate captured river otters that are being a nuisance. I want captured otters to be released back into riparian zones where the otter can live and have a positive ecological impact and not negatively influence humans. 
+
+
+## Citations
+
+Hamilton, D. (2007, June 01). Missouri River Otter Saga. Retrieved November 9, 2018, from https://mdc.mo.gov/conmag/2007/06/missouri-river-otter-saga
+
+Jeffress, M. R., Paukert, C. P., Whittier, J. B., Sandercock, B. K., & Gipson, P. S. (2011). Scale-dependent Factors Affecting North American River Otter Distribution in the Midwest. The American Midland Naturalist, 166(1), 177-193. doi:10.1674/0003-0031-166.1.177
+
+Johnson, W. (2018, August 17). Wild otters causing grief for some Missouri anglers. Retrieved November 9, 2018, from https://apnews.com/fa0965d662d84b2baeed9ab4b5dc538f
+
+Mcplaneface, P. (2017, September 24). #riverotter hashtag on Twitter. Retrieved November 9, 2018, from https://twitter.com/hashtag/riverotter?lang=en
+
+Musico, J. (2018, March 11). Whole 'otter' trouble. Retrieved November 9, 2018, from http://www.newstribune.com/news/features/story/2018/mar/11/whole-otter-trouble/717058/
+
+North American River Otter. (2018). Retrieved November 9, 2018, from https://nature.mdc.mo.gov/discover-nature/field-guide/north-american-river-otter
+
+Otter Control. (2018). Retrieved November 9, 2018, from https://mdc.mo.gov/wildlife/nuisance-problem-species/nuisance-native-species/otter-control
+
+White, K. (2015, June 10). Otters may be cute and playful, but they pose a threat to fishing. Retrieved November 9, 2018, from https://www.news-leader.com/story/sports/outdoors/2015/06/10/otters-may-cute-playful-pose-threat-fishing/28765869/
 
 
